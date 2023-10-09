@@ -1,0 +1,42 @@
+[
+    {
+        "image": "../assets/halloween/skeleton.png",
+        "name": "skeleton"
+    },
+    {
+        "image": "../assets/halloween/pumpkin.png",
+        "name": "pumpkin"
+    },
+    {
+        "image": "../assets/halloween/frankenstein.png",
+        "name": "frankenstein"
+    },
+    {
+        "image": "../assets/halloween/vampire.png",
+        "name": "vampire"
+    },
+    {
+        "image": "../assets/halloween/mummy.png",
+        "name": "mummy"
+    },
+    {
+        "image": "../assets/halloween/wolf.png",
+        "name": "wolf"
+    },
+    {
+        "image": "../assets/halloween/cauldron.png",
+        "name": "cauldron"
+    },
+    {
+        "image": "../assets/halloween/tombstone.png",
+        "name": "tombstone"
+    },
+    {
+        "image": "../assets/halloween/zombie.png",
+        "name": "zombie"
+    },
+    {
+        "image": "../assets/halloween/ghost.png",
+        "name": "ghost"
+    }
+]

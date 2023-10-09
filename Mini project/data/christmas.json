@@ -1,0 +1,42 @@
+[
+    {
+        "image": "../assets/christmas/santa.png",
+        "name": "santa"
+    },
+    {
+        "image": "../assets/christmas/gingerbread.png",
+        "name": "gingerbread"
+    },
+    {
+        "image": "../assets/christmas/star.png",
+        "name": "star"
+    },
+    {
+        "image": "../assets/christmas/reindeer.png",
+        "name": "reindeer"
+    },
+    {
+        "image": "../assets/christmas/wreath.png",
+        "name": "wreath"
+    },
+    {
+        "image": "../assets/christmas/snowman.png",
+        "name": "snowman"
+    },
+    {
+        "image": "../assets/christmas/holly.png",
+        "name": "holly"
+    },
+    {
+        "image": "../assets/christmas/present.png",
+        "name": "present"
+    },
+    {
+        "image": "../assets/christmas/bells.png",
+        "name": "bells"
+    },
+    {
+        "image": "../assets/christmas/tree.png",
+        "name": "tree"
+    }
+]

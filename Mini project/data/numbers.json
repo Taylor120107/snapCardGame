@@ -1,0 +1,42 @@
+[
+    {
+        "image": "../assets/numbers/one.png",
+        "name": "one"
+    },
+    {
+        "image": "../assets/numbers/two.png",
+        "name": "two"
+    },
+    {
+        "image": "../assets/numbers/three.png",
+        "name": "three"
+    },
+    {
+        "image": "../assets/numbers/four.png",
+        "name": "four"
+    },
+    {
+        "image": "../assets/numbers/five.png",
+        "name": "five"
+    },
+    {
+        "image": "../assets/numbers/six.png",
+        "name": "six"
+    },
+    {
+        "image": "../assets/numbers/seven.png",
+        "name": "seven"
+    },
+    {
+        "image": "../assets/numbers/eight.png",
+        "name": "eight"
+    },
+    {
+        "image": "../assets/numbers/nine.png",
+        "name": "nine"
+    },
+    {
+        "image": "../assets/numbers/ten.png",
+        "name": "ten"
+    }
+]

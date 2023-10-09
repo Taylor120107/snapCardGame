@@ -1,0 +1,42 @@
+[
+    {
+        "image": "../assets/alphabet/A.png",
+        "name": "A"
+    },
+    {
+        "image": "../assets/alphabet/B.png",
+        "name": "B"
+    },
+    {
+        "image": "../assets/alphabet/C.png",
+        "name": "C"
+    },
+    {
+        "image": "../assets/alphabet/D.png",
+        "name": "D"
+    },
+    {
+        "image": "../assets/alphabet/E.png",
+        "name": "E"
+    },
+    {
+        "image": "../assets/alphabet/F.png",
+        "name": "F"
+    },
+    {
+        "image": "../assets/alphabet/G.png",
+        "name": "G"
+    },
+    {
+        "image": "../assets/alphabet/H.png",
+        "name": "H"
+    },
+    {
+        "image": "../assets/alphabet/I.png",
+        "name": "I"
+    },
+    {
+        "image": "../assets/alphabet/J.png",
+        "name": "J"
+    }
+]
