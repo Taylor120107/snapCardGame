@@ -6,7 +6,7 @@ let score = 0;
 
 document.querySelector(".score").textContent = score;
 
-fetch("./data/fruit.json")
+fetch("./data/halloween.json")
     .then((res) => res.json())
     .then((data) => {
         cards = [...data, ...data];
@@ -97,7 +97,7 @@ function restart() {
     resetBoard();
     shuffleCards();
     score = 0;
-    document.querySelector(".score"), textContent = score;
+    document.querySelector(".score"). textContent = score;
     gridContainer.innerHTML = "";
     generateCards();
 }
